@@ -56,7 +56,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
  While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-*Answer: cross axis*
+*cross axis*
 
 **Question 5**
 
