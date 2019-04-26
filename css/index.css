@@ -213,5 +213,28 @@ footer nav a {
 }
 
 hr{
-    border-top: dotted 1px;
+    border-top: dashed 1px;
+}
+
+.about-list{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-right: 30px;
+}
+
+.about-list div{
+    width: 45%;
+}
+
+.about-list button{
+    padding: 5px 10px;
+    margin: 10px 10px 10px 0;
+    border-radius: 10px;
+    font-size: 16px;
+    border: 2px black solid;
+}
+
+.about-list hr{
+width: 112%;
 }
