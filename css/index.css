@@ -202,3 +202,16 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* Style for about page */
+.about-page{
+    line-height: 1.6;
+}
+
+.about, .about-list, .lets-work{
+    margin: 15px;
+}
+
+hr{
+    border-top: dotted 1px;
+}
