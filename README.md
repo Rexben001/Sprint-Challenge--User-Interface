@@ -32,15 +32,37 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+**Question 1**
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
+ If you were to describe semantic HTML to the next cohort of students, what would you say?
+   
+*Semantic HTML gives meaning to a webpage. It helps other developers to understand your code better. For instance, for your heading, you should h1-h6.*
 
-3. What are the 4 areas of the box model?
+**Question 2**
 
-4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+ Name two big differences between ```display: block;``` and ```display: inline;```.
 
-5. Explain why git is valuable to a team of developers.
+*```display: block;```: It takes up all the available space e.g it sets the width to 100%*
+
+*```display: inline;```: It takes up only the space it needs*
+
+**Question 3**
+
+ What are the 4 areas of the box model?
+
+*padding, margin, content, border*
+
+**Question 4**
+
+ While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+*cross axis*
+
+**Question 5**
+
+ Explain why git is valuable to a team of developers.
+
+*Git is a version control system (VCS). Version control systemas the name implies helps to manage the version of a document i.e. manage changes in a document. Git is free*
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
